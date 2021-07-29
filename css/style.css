@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.topbar-background{
+   background:  #264653;;
+}
+.customized-colour{
+    color:  #E76F51;
+   
+}
+
+.img-gray {
+    filter: grayscale(100%);
+  }
+.image-size{
+    width: 149px;
+    height: 149px;
+    top: 40px;
+    margin-top: 12px;
+  }
+
+.fas{
+   color:  #E77C40;
+}
+.feature-img-size{
+  
+width: 400px;
+height: 420px;
+left: 157px;
+top: 3173px;
+}
+.honda-btn{
+    background-color: #E77C40 ;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
